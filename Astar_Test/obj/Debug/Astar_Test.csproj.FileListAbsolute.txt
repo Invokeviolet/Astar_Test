@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Astar_Test\Astar_Test\obj\Debug\Astar_Test.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Astar_Test\Astar_Test\obj\Debug\Astar_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Astar_Test\Astar_Test\obj\Debug\Astar_Test.csproj.CoreCompileInputs.cache
